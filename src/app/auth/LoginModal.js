@@ -863,9 +863,6 @@ export default function LoginModal({
           border-radius: 14px;
           box-shadow: var(--ve-shadow);
         }
-
-       
-
         .auth-modal-scroll::-webkit-scrollbar {
           width: 5px;
         }
